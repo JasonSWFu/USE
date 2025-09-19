@@ -3,7 +3,7 @@
 This is the demo page of our paper submitted to ICLR 2026.
 
 
-### 1. Examples of our speech enhancement model applied to speech from movies and YouTube:
+### Examples of our speech enhancement model applied to real-world noisy speech:
 
 **Example 1: [Jensen's speech](https://www.youtube.com/watch?v=zbzCiau3hWc&t=24s)**
 
