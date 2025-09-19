@@ -58,7 +58,7 @@ This is the demo page of our paper submitted to ICLR 2026.
 
 **Example 3: [Apollo 11 astronaut Neil Armstrong gives his classic confirmation of the first footsteps on the moon](https://science.nasa.gov/resource/sounds-of-mars-one-small-step/)**
 
-<img src="img/Einstein.jpg" style="width:30%; height:auto;"/>
+<img src="img/Apollo.png" style="width:30%; height:auto;"/>
 
 **transcript: One small step for (a) man, one giant leap for mankind.**  	
 
@@ -79,7 +79,7 @@ This is the demo page of our paper submitted to ICLR 2026.
 
 **Example 4: [Harry Potter and the Philosopher's Stone](https://youtu.be/ibRcSCRAyTA?t=22) (2001)**
 
-<img src="img/Potter.jpg" style="width:30%; height:auto;"/>
+<img src="img/Potter.png" style="width:30%; height:auto;"/>
 
 **Original input (noisy (music), bandwidth-limitation (16kHz))**:
 
