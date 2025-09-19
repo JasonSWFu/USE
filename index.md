@@ -69,10 +69,10 @@ This is the demo page of our paper submitted to ICLR 2026.
 </audio>
 
 
-**Enhanced and bandwidth extension to 32k:**  
+**Enhanced and bandwidth extension to 16k:**  
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/sounds-of-mars-one-small-step-earth_4kto32k.wav" type="audio/wav" />
+	<source src="wavs/sounds-of-mars-one-small-step-earth_8kto16k.wav" type="audio/wav" />
 </audio>
 
 -----------------------------------------------------------
