@@ -3,11 +3,11 @@
 This is the demo page of our paper submitted to ICLR 2026.
 
 
-### Examples of our speech enhancement model applied to real-world noisy speech:
+### Examples of our speech enhancement model applied to real noisy speech:
 
 **Example 1: [Jensen's speech](https://www.youtube.com/watch?v=zbzCiau3hWc&t=24s)**
 
-<img src="img/Commencement Speech.png" style="width:30%; height:auto;"/>
+<img src="img/Jensen.png" style="width:30%; height:auto;"/>
 
 
 **Original input (noisy, highly-reverb, bandwidth-limitation (16kHz))**:
