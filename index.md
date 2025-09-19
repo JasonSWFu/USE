@@ -11,19 +11,19 @@ This is the demo page of our paper submitted to ICLR 2026.
 
 ***Original transcript:*** With **Great Power**, comes Great Responsibility  	
 
-[**Original noisy**:]
+**Original noisy (noisy, reverb, bandwidth-limitation (16kHz))**:
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/Run_noisy.wav" type="audio/wav" />
 </audio>
 
-[**Enhanced:**]  
+**Enhanced:** 
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/Run.wav" type="audio/wav" />
 </audio>
 
-[**Enhanced and bandwidth extension to 32k:**]  
+**Enhanced and bandwidth extension to 32k:**  
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/Run_32k_kaiser_best.flac" type="audio/wav" />
