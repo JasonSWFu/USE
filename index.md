@@ -7,7 +7,7 @@ This is the demo page of our paper submitted to ICLR 2026.
 
 **Example 1-1: [Jensen's speech](https://www.youtube.com/watch?v=zbzCiau3hWc&t=24s)**
 
-<img src="img/Commencement Speech.png", style="width:50%; height:auto;"/>
+<img src="img/Commencement Speech.png" style="width:50%; height:auto;"/>
 
 ***Original transcript:*** With **Great Power**, comes Great Responsibility  	
 
