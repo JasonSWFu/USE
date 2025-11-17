@@ -26,7 +26,7 @@ This is the demo page of our paper submitted to ICLR 2026.
 
 **Early-reflected example3:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early3.wav" type="audio/wav" />
+	<source src="wavs/early3.flac" type="audio/wav" />
 </audio>
 
 **Anechoic clean example3:**
@@ -53,7 +53,6 @@ This is the demo page of our paper submitted to ICLR 2026.
 <audio style="width:320px" controls="controls">
 	<source src="wavs/anechoic5.wav" type="audio/wav" />
 </audio>
------------------------------------------------------------
 
 ### Examples of our speech enhancement model applied to real noisy speech:
 
