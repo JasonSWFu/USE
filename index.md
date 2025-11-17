@@ -2,6 +2,58 @@
 
 This is the demo page of our paper submitted to ICLR 2026.
 
+### Examples of shifted anechoic clean speech VS early-reflected:
+
+**Early-reflected example1:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early1.wav" type="audio/wav" />
+</audio>
+
+**Anechoic clean example1:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/anechoic1.wav" type="audio/wav" />
+</audio>
+
+**Early-reflected example2:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early2.wav" type="audio/wav" />
+</audio>
+
+**Anechoic clean example2:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/anechoic2.wav" type="audio/wav" />
+</audio>
+
+**Early-reflected example3:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early3.wav" type="audio/wav" />
+</audio>
+
+**Anechoic clean example3:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/anechoic3.wav" type="audio/wav" />
+</audio>
+
+**Early-reflected example4:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early4.wav" type="audio/wav" />
+</audio>
+
+**Anechoic clean example4:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/anechoic4.wav" type="audio/wav" />
+</audio>
+
+**Early-reflected example5:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early5.wav" type="audio/wav" />
+</audio>
+
+**Anechoic clean example5:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/anechoic5.wav" type="audio/wav" />
+</audio>
+-----------------------------------------------------------
 
 ### Examples of our speech enhancement model applied to real noisy speech:
 
