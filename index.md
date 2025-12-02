@@ -2,57 +2,125 @@
 
 This is the demo page of our paper submitted to ICLR 2026.
 
-### Examples of shifted anechoic clean speech VS early-reflected:
+### Examples of Non-blind test set results of the URGENT 2025 Challenge:
+Note: 
+1. We provide examples for multiple languages.
 
-**Early-reflected example1:**
+2. The difference between Early Reflected and Shifted Anechoic training targets is noticeable only when the input noisy speech contains reverberation.
+
+3. The effect of the GAN correction is typically audible only under severe degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
+
+
+shifted anechoic clean speech VS early-reflected:
+
+### Example1:
+
+**Noisy (noise, codec, reverb):**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early1.wav" type="audio/wav" />
+	<source src="wavs/noisy_18.flac" type="audio/wav" />
 </audio>
 
-**Anechoic clean example1:**
+**Early-reflected:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/anechoic1.wav" type="audio/wav" />
+	<source src="wavs/early_18.flac" type="audio/wav" />
 </audio>
 
-**Early-reflected example2:**
+**Early-reflected + GAN:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early2.wav" type="audio/wav" />
+	<source src="wavs/early+GAN_18.flac" type="audio/wav" />
 </audio>
 
-**Anechoic clean example2:**
+**Shifted anechoic clean:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/anechoic2.wav" type="audio/wav" />
+	<source src="wavs/shifted_18.flac" type="audio/wav" />
 </audio>
 
-**Early-reflected example3:**
+**Shifted anechoic clean + GAN:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early3.flac" type="audio/wav" />
+	<source src="wavs/shifted+GAN_18.flac" type="audio/wav" />
+</audio>
+-----------------------------------------------------------
+### Example2:
+
+**Noisy  (noise, bandwidth extension, reverb):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/noisy_320.flac" type="audio/wav" />
 </audio>
 
-**Anechoic clean example3:**
+**Early-reflected:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/anechoic3.wav" type="audio/wav" />
+	<source src="wavs/early_320.flac" type="audio/wav" />
 </audio>
 
-**Early-reflected example4:**
+**Early-reflected + GAN:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early4.wav" type="audio/wav" />
+	<source src="wavs/early+GAN_320.flac" type="audio/wav" />
 </audio>
 
-**Anechoic clean example4:**
+**Shifted anechoic clean:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/anechoic4.wav" type="audio/wav" />
+	<source src="wavs/shifted_320.flac" type="audio/wav" />
 </audio>
 
-**Early-reflected example5:**
+**Shifted anechoic clean + GAN:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early5.wav" type="audio/wav" />
+	<source src="wavs/shifted+GAN_320.flac" type="audio/wav" />
+</audio>
+-----------------------------------------------------------
+### Example3:
+
+**Noisy (noise, packet loss, reverb):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/noisy_344.flac" type="audio/wav" />
 </audio>
 
-**Anechoic clean example5:**
+**Early-reflected:**
 <audio style="width:320px" controls="controls">
-	<source src="wavs/anechoic5.wav" type="audio/wav" />
+	<source src="wavs/early_344.flac" type="audio/wav" />
 </audio>
+
+**Early-reflected + GAN:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early+GAN_344.flac" type="audio/wav" />
+</audio>
+
+**Shifted anechoic clean:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/shifted_344.flac" type="audio/wav" />
+</audio>
+
+**Shifted anechoic clean + GAN:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/shifted+GAN_344.flac" type="audio/wav" />
+</audio>
+-----------------------------------------------------------
+### Example4:
+
+**Noisy (noise, packet loss, clipping, reverb):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/noisy_824.flac" type="audio/wav" />
+</audio>
+
+**Early-reflected:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early_824.flac" type="audio/wav" />
+</audio>
+
+**Early-reflected + GAN:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/early+GAN_824.flac" type="audio/wav" />
+</audio>
+
+**Shifted anechoic clean:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/shifted_824.flac" type="audio/wav" />
+</audio>
+
+**Shifted anechoic clean + GAN:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/shifted+GAN_824.flac" type="audio/wav" />
+</audio>
+-----------------------------------------------------------
 
 ### Examples of our speech enhancement model applied to real noisy speech:
 
