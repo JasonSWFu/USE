@@ -8,10 +8,8 @@ Note:
 
 2. The difference between Early Reflected and Shifted Anechoic training targets is noticeable only when the input noisy speech contains reverberation.
 
-3. The effect of the GAN correction is typically audible only under severe degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
+3. The effect of the GAN correction is typically audible only under *severe* degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
 
-
-shifted anechoic clean speech VS early-reflected:
 
 ### Example1:
 
