@@ -8,116 +8,140 @@ Note:
 
 2. The difference between Early Reflected and Shifted Anechoic training targets is noticeable only when the input noisy speech contains reverberation.
 
-3. The effect of the GAN correction is typically audible only under *severe* degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
+3. The effect of the GAN correction is typically audible only under **severe** degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
 
 
 ### Example1:
 
 **Noisy (noise, codec, reverb):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_18.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early_18.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early+GAN_18.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted_18.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted+GAN_18.flac" type="audio/wav" />
 </audio>
+
 -----------------------------------------------------------
 ### Example2:
 
 **Noisy  (noise, bandwidth extension, reverb):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_320.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early_320.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early+GAN_320.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted_320.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted+GAN_320.flac" type="audio/wav" />
 </audio>
+
 -----------------------------------------------------------
 ### Example3:
 
 **Noisy (noise, packet loss, reverb):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_344.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early_344.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early+GAN_344.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted_344.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted+GAN_344.flac" type="audio/wav" />
 </audio>
+
 -----------------------------------------------------------
 ### Example4:
 
 **Noisy (noise, packet loss, clipping, reverb):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_824.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early_824.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/early+GAN_824.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted_824.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/shifted+GAN_824.flac" type="audio/wav" />
 </audio>
+
 -----------------------------------------------------------
 
 ### Examples of our speech enhancement model applied to real noisy speech:
