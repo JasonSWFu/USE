@@ -2,11 +2,11 @@
 
 This is the demo page of our paper submitted to ICLR 2026.
 
-### Examples of Non-blind test set results of the URGENT 2025 Challenge:
+### Examples of Non-blind test set of the URGENT 2025 Challenge:
 Note: 
 1. We provide examples for multiple languages.
 
-2. The difference between Early Reflected and Shifted Anechoic training targets is noticeable only when the input noisy speech contains reverberation.
+2. The difference between Early Reflected and Shifted Anechoic speech training targets is noticeable only when the input noisy speech contains reverberation.
 
 3. The effect of the GAN correction is typically audible only under **severe** degradations (e.g., low SNR, packet loss, bandwidth extension, etc.).
 
@@ -46,7 +46,7 @@ Note:
 -----------------------------------------------------------
 ### Example2:
 
-**Noisy  (noise, bandwidth extension, reverb):**
+**Noisy  (noise, codec, reverb):**
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_320.flac" type="audio/wav" />
