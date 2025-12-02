@@ -112,7 +112,7 @@ Note:
 -----------------------------------------------------------
 ### Example4:
 
-**Noisy (noise, packet loss, clipping, reverb):**
+**Noisy (noise, packet loss, clipping):**
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_824.flac" type="audio/wav" />
