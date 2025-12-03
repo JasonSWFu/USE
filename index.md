@@ -13,34 +13,34 @@ Note:
 
 ### Example1:
 
-**Noisy (noise, codec, reverb):**
+**Noisy (noise, bandwidth extension, clipping, reverb):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/noisy_18.flac" type="audio/wav" />
+	<source src="wavs/noisy_286.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early_18.flac" type="audio/wav" />
+	<source src="wavs/early_286.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected + GAN:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/early+GAN_18.flac" type="audio/wav" />
+	<source src="wavs/early+GAN_286.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/shifted_18.flac" type="audio/wav" />
+	<source src="wavs/shifted_286.flac" type="audio/wav" />
 </audio>
 
 **Shifted anechoic clean + GAN:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/shifted+GAN_18.flac" type="audio/wav" />
+	<source src="wavs/shifted+GAN_286.flac" type="audio/wav" />
 </audio>
 
 -----------------------------------------------------------
@@ -112,7 +112,7 @@ Note:
 -----------------------------------------------------------
 ### Example4:
 
-**Noisy (noise, packet loss, clipping):**
+**Noisy (noise, packet loss, clipping, reverb):**
 
 <audio style="width:320px" controls="controls">
 	<source src="wavs/noisy_824.flac" type="audio/wav" />
