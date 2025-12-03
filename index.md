@@ -260,6 +260,8 @@ Note:
 	<source src="wavs/airport.wav" type="audio/wav" />
 </audio>
 
+-----------------------------------------------------------
+
 ### The overall ranking table for the non-blind test set of the URGENT 2025 Challenge (considering only the Early Reflected learning target for consistency):
 
 | Team          | DNSMOS    | NISQA      | UTMOS     | PESQ      | ESTOI     | SDR        | MCD        | LSD        | SpeechBERTScore | LPS       | SpkSim    | CAcc (%)   | Overall ranking score |
