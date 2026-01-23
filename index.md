@@ -1,6 +1,6 @@
 # Introduction
 
-This is the demo page of our paper submitted to ICLR 2026.
+This is the demo page of our paper submitted to ICML 2026.
 
 ### Examples of Non-blind test set of the URGENT 2025 Challenge:
 Note: 
