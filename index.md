@@ -4,7 +4,7 @@ This is the demo page of our paper submitted to ICML 2026.
 
 ### (NEW) Comparison of different "discriminative + generative" methods:
 
-### English audio example 1(additive noise (SNR 0.1[dB]) and reverberation):
+### 1. English audio example (additive noise (SNR 0.1[dB]) and reverberation):
 
 **Noisy:**
 
@@ -27,7 +27,7 @@ This is the demo page of our paper submitted to ICML 2026.
 	<source src="wavs/T22_noisy_0.wav" type="audio/wav" />
 </audio>
 
-### Japanese audio example 1(additive noise (SNR 3.5[dB]), reverberation, clipping, DAC codec, and bandwidth limitation):
+### 2. Japanese audio example (additive noise (SNR 3.5[dB]), reverberation, clipping, DAC codec, and bandwidth limitation):
 
 **Noisy:**
 
@@ -50,7 +50,7 @@ This is the demo page of our paper submitted to ICML 2026.
 	<source src="wavs/T22_noisy_3.wav" type="audio/wav" />
 </audio>
 
-### Japanese audio example 2(additive noise, packet loss), real-recorded noisy speech with additional packet loss!!:
+### 3. Japanese audio example (additive noise, packet loss), real-recorded noisy speech with additional packet loss:
 
 **Noisy:**
 
