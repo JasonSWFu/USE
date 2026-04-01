@@ -2,9 +2,9 @@
 
 This is the demo page of our paper submitted to ICML 2026.
 
-### (NEW) Comparison of different "discriminative + generative" methods:
+### (!NEW) Comparison of different "discriminative + generative" methods:
 
-### 1. English audio example (additive noise (SNR 0.1[dB]) and reverberation):
+### 1. English example (additive noise (SNR 0.1 dB) and reverberation):
 
 **Noisy:**
 
@@ -22,12 +22,12 @@ This is the demo page of our paper submitted to ICML 2026.
 	<source src="wavs/T3 (hybrid).wav" type="audio/wav" />
 </audio>
 
-**T3 Ours:**
+**T3 Ours Shifted anechoic + GAN:**
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_0.wav" type="audio/wav" />
 </audio>
 
-### 2. Japanese audio example (additive noise (SNR 3.5[dB]), reverberation, clipping, DAC codec, and bandwidth limitation):
+### 2. Japanese example (additive noise (SNR 3.5 dB), reverberation, clipping, DAC codec, and bandwidth limitation):
 
 **Noisy:**
 
@@ -45,12 +45,12 @@ This is the demo page of our paper submitted to ICML 2026.
 	<source src="wavs/T3 (hybrid)(4).wav" type="audio/wav" />
 </audio>
 
-**T3 Ours:**
+**T3 Ours Shifted anechoic + GAN:**
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_3.wav" type="audio/wav" />
 </audio>
 
-### 3. Japanese audio example (additive noise, packet loss), real-recorded noisy speech with additional packet loss:
+### 3. Japanese example, real-recorded noisy speech with additional packet loss:
 
 **Noisy:**
 
@@ -68,7 +68,7 @@ This is the demo page of our paper submitted to ICML 2026.
 	<source src="wavs/T3 (hybrid)(5).wav" type="audio/wav" />
 </audio>
 
-**T3 Ours:**
+**T3 Ours Shifted anechoic + GAN:**
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_4.wav" type="audio/wav" />
 </audio>
