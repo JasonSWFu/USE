@@ -2,6 +2,83 @@
 
 This is the demo page of our paper submitted to ICML 2026.
 
+### (NEW) Comparison of different "discriminative + generative" methods:
+
+### English audio example 1(additive noise (SNR 0.1[dB]) and reverberation):
+
+**Noisy:**
+
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22 (noisy).wav" type="audio/wav" />
+</audio>
+
+**T2 (TS-URGENet [1]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T2 (hybrid).wav" type="audio/wav" />
+</audio>
+
+**T3 (FUSE [2]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T3 (hybrid).wav" type="audio/wav" />
+</audio>
+
+**T3 Ours:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22_noisy_0.wav" type="audio/wav" />
+</audio>
+
+### Japanese audio example 1(additive noise (SNR 3.5[dB]), reverberation, clipping, DAC codec, and bandwidth limitation):
+
+**Noisy:**
+
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22 (noisy)(4).wav" type="audio/wav" />
+</audio>
+
+**T2 (TS-URGENet [1]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T2 (hybrid)(4).wav" type="audio/wav" />
+</audio>
+
+**T3 (FUSE [2]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T3 (hybrid)(4).wav" type="audio/wav" />
+</audio>
+
+**T3 Ours:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22_noisy_3.wav" type="audio/wav" />
+</audio>
+
+### Japanese audio example 2(additive noise, packet loss), real-recorded noisy speech with additional packet loss!!:
+
+**Noisy:**
+
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22 (noisy)(5).wav" type="audio/wav" />
+</audio>
+
+**T2 (TS-URGENet [1]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T2 (hybrid)(5).wav" type="audio/wav" />
+</audio>
+
+**T3 (FUSE [2]):**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T3 (hybrid)(5).wav" type="audio/wav" />
+</audio>
+
+**T3 Ours:**
+<audio style="width:320px" controls="controls">
+	<source src="wavs/T22_noisy_4.wav" type="audio/wav" />
+</audio>
+
+[1] Rong, X., Wang, D., Hu, Q., Wang, Y., Hu, Y., and Lu, J. TS-URGENet: A three-stage universal robust and generalizable speech enhancement network. Interspeech 2025.
+
+[2] Goswami, N. and Harada, T. FUSE: Universal speech enhancement using multi-stage fusion of sparse compression and token generation models for the urgent 2025 challenge. Interspeech, 2025.
+
+-----------------------------------------------------------
+
 ### Examples of Non-blind test set of the URGENT 2025 Challenge:
 Note: 
 1. We provide examples for multiple languages.
