@@ -13,16 +13,19 @@ This is the demo page of our paper submitted to ICML 2026.
 </audio>
 
 **T2 (TS-URGENet [1]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T2 (hybrid).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T3 (hybrid).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_0.wav" type="audio/wav" />
 </audio>
@@ -36,16 +39,19 @@ This is the demo page of our paper submitted to ICML 2026.
 </audio>
 
 **T2 (TS-URGENet [1]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T2 (hybrid)(4).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T3 (hybrid)(4).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_3.wav" type="audio/wav" />
 </audio>
@@ -59,16 +65,19 @@ This is the demo page of our paper submitted to ICML 2026.
 </audio>
 
 **T2 (TS-URGENet [1]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T2 (hybrid)(5).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T3 (hybrid)(5).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
+
 <audio style="width:320px" controls="controls">
 	<source src="wavs/T22_noisy_4.wav" type="audio/wav" />
 </audio>
