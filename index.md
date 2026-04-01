@@ -9,19 +9,19 @@ This is the demo page of our paper submitted to ICML 2026.
 **Noisy:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T22 (noisy).wav" type="audio/wav" />
+	<source src="wavs/T22(noisy).wav" type="audio/wav" />
 </audio>
 
 **T2 (TS-URGENet [1]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T2 (hybrid).wav" type="audio/wav" />
+	<source src="wavs/T2(hybrid).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T3 (hybrid).wav" type="audio/wav" />
+	<source src="wavs/T3(hybrid).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
@@ -35,19 +35,19 @@ This is the demo page of our paper submitted to ICML 2026.
 **Noisy:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T22 (noisy)(4).wav" type="audio/wav" />
+	<source src="wavs/T22(noisy)(4).wav" type="audio/wav" />
 </audio>
 
 **T2 (TS-URGENet [1]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T2 (hybrid)(4).wav" type="audio/wav" />
+	<source src="wavs/T2(hybrid)(4).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T3 (hybrid)(4).wav" type="audio/wav" />
+	<source src="wavs/T3(hybrid)(4).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
@@ -61,19 +61,19 @@ This is the demo page of our paper submitted to ICML 2026.
 **Noisy:**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T22 (noisy)(5).wav" type="audio/wav" />
+	<source src="wavs/T22(noisy)(5).wav" type="audio/wav" />
 </audio>
 
 **T2 (TS-URGENet [1]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T2 (hybrid)(5).wav" type="audio/wav" />
+	<source src="wavs/T2(hybrid)(5).wav" type="audio/wav" />
 </audio>
 
 **T3 (FUSE [2]):**
 
 <audio style="width:320px" controls="controls">
-	<source src="wavs/T3 (hybrid)(5).wav" type="audio/wav" />
+	<source src="wavs/T3(hybrid)(5).wav" type="audio/wav" />
 </audio>
 
 **T3 Ours Shifted anechoic + GAN:**
