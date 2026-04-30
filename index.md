@@ -1,6 +1,6 @@
 # Introduction
 
-This is the demo page of our paper submitted to ICML 2026.
+This is the demo page of our RE-USE [paper](https://arxiv.org/abs/2603.02641).
 
 ### (!NEW) Comparison of different "discriminative + generative" methods:
 
