@@ -2,8 +2,6 @@
 
 This is the demo page of our RE-USE paper.
 
------------------------------------------------------------
-
 ### Examples of Non-blind test set of the URGENT 2025 Challenge:
 Note: 
 1. We provide examples for multiple languages.
