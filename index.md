@@ -16,7 +16,7 @@ Note:
 **Noisy (noise, bandwidth extension, clipping, reverb):**
 
 <audio style="width:320px" controls="controls">
-	<source src="/wavs/noisy_286.flac" type="audio/wav" />
+	<source src="wavs/noisy_286.flac" type="audio/wav" />
 </audio>
 
 **Early-reflected:**
